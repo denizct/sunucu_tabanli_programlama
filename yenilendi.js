@@ -113,8 +113,8 @@ console.log(toplam_2)
 // forEach fonksiyonu 
 
 const saatdortolmus=[10,20,30,40,50]
-saatdortolmus.forEach(saatdortolmus=>{
-    console.log(saatdortolmus)
+saatdortolmus.forEach(sayimiz=>{
+    console.log(sayimiz)
 })
 
 //Hata denetimi
